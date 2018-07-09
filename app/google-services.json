@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "717772399262",
+    "firebase_url": "https://doctor-locator-cc59d.firebaseio.com",
+    "project_id": "doctor-locator-cc59d",
+    "storage_bucket": "doctor-locator-cc59d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717772399262:android:c0f4f81d07bbdff7",
+        "android_client_info": {
+          "package_name": "com.doctor_locator.himel.doctor_locator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717772399262-9mjggivtllmht02nlliam5l6p5re0phn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doctor_locator.himel.doctor_locator",
+            "certificate_hash": "44b0efc0043ecf343c8b4556c0bb89e021bf248e"
+          }
+        },
+        {
+          "client_id": "717772399262-0s82c0ompmaqlkgnpslmp95goe18sgp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_LiiKGuD4kcBZ-lNB_gqdU1tAiLEQ6ws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717772399262-0s82c0ompmaqlkgnpslmp95goe18sgp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
